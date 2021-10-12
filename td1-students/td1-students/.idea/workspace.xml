@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d243d33-16e1-4058-b8a4-851a9393b8b8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../td1/src/main/java/td1/refactor/api/general/Burger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../td1/src/main/java/td1/refactor/api/general/Burger.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="td1" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hB5fOYmhTtOsehIV29em8uTSm8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3494253" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="td1.original.client.App" />
+      <module name="td1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="td1.original.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d243d33-16e1-4058-b8a4-851a9393b8b8" name="Default Changelist" comment="" />
+      <created>1599471746830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599471746830</updated>
+      <workItem from="1599471748041" duration="2827000" />
+      <workItem from="1599554985354" duration="280000" />
+      <workItem from="1599555443296" duration="1481000" />
+      <workItem from="1599809277221" duration="27000" />
+      <workItem from="1599809314945" duration="2388000" />
+      <workItem from="1600066676124" duration="6756000" />
+      <workItem from="1600618329350" duration="72000" />
+      <workItem from="1600618420431" duration="1435000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="73" key="#Project_Structure" timestamp="1600074476558">
+      <screen x="0" y="23" width="1920" height="1000" />
+    </state>
+    <state x="413" y="79" key="#Project_Structure/-389.-1417.2560.1417/0.23.1920.1120@0.23.1920.1120" timestamp="1599837947568" />
+    <state x="413" y="73" key="#Project_Structure/0.23.1920.1000@0.23.1920.1000" timestamp="1600074476558" />
+    <state x="450" y="103" key="#Project_Structure/0.23.1920.997@0.23.1920.997" timestamp="1599474568711" />
+    <state width="1824" height="290" key="GridCell.Tab.0.bottom" timestamp="1599837971417">
+      <screen x="0" y="23" width="1920" height="1120" />
+    </state>
+    <state width="1824" height="290" key="GridCell.Tab.0.bottom/-389.-1417.2560.1417/0.23.1920.1120@0.23.1920.1120" timestamp="1599837971417" />
+    <state width="1824" height="290" key="GridCell.Tab.0.center" timestamp="1599837971416">
+      <screen x="0" y="23" width="1920" height="1120" />
+    </state>
+    <state width="1824" height="290" key="GridCell.Tab.0.center/-389.-1417.2560.1417/0.23.1920.1120@0.23.1920.1120" timestamp="1599837971416" />
+    <state width="1824" height="290" key="GridCell.Tab.0.left" timestamp="1599837971416">
+      <screen x="0" y="23" width="1920" height="1120" />
+    </state>
+    <state width="1824" height="290" key="GridCell.Tab.0.left/-389.-1417.2560.1417/0.23.1920.1120@0.23.1920.1120" timestamp="1599837971416" />
+    <state width="1824" height="290" key="GridCell.Tab.0.right" timestamp="1599837971417">
+      <screen x="0" y="23" width="1920" height="1120" />
+    </state>
+    <state width="1824" height="290" key="GridCell.Tab.0.right/-389.-1417.2560.1417/0.23.1920.1120@0.23.1920.1120" timestamp="1599837971417" />
+    <state x="529" y="149" key="SettingsEditor" timestamp="1599556896762">
+      <screen x="0" y="23" width="1920" height="1120" />
+    </state>
+    <state x="529" y="149" key="SettingsEditor/-389.-1417.2560.1417/0.23.1920.1120@0.23.1920.1120" timestamp="1599556896762" />
+  </component>
+</project>
