@@ -34,7 +34,7 @@ public class MacDeauRestaurant implements BurgerRestaurant {
     }
 
     @Override
-    public BurgerCook order_personnal(Size s, MenuType m) {
-        return null;
+    public BurgerCook order_personnal(Size s, MeatType m) {
+        return new MacDeauCook("Perso",s,m);
     }
 }
