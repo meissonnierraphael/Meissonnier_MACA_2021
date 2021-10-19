@@ -8,7 +8,7 @@ public class FSFactory {
     }
 
     public FSFactory(){
-        
+
     }
 
     public Composant createComposant(ComposantType type, String name, Owner owner){
