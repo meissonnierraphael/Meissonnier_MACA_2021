@@ -45,7 +45,6 @@ public class GroupeClient implements PrePostVisitable,Visitable{
     @Override
     public void accept(PrePostVisitor prePostVisitor) {
         prePostVisitor.preVisit(this);
-        prePostVisitor.postVisit(this);
     }
 
     @Override
