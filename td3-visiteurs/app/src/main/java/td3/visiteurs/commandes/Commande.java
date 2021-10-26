@@ -31,7 +31,6 @@ public class Commande implements PrePostVisitable,Visitable{
     @Override
     public void accept(PrePostVisitor prePostVisitor) {
         prePostVisitor.preVisit(this);
-        prePostVisitor.postVisit(this);
     }
 
     @Override
