@@ -17,6 +17,10 @@ public class GroupeClient implements PrePostVisitable,Visitable{
         this.clients=new HashMap<String,Client>();
     }
 
+    public Map<String, Client> getClients() {
+        return clients;
+    }
+
     public void addClient(Client client){
         this.clients.put(client.getName() ,client);
     }

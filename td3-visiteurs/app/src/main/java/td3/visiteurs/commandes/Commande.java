@@ -20,6 +20,10 @@ public class Commande implements PrePostVisitable,Visitable{
         return name;
     }
 
+    public Map<String, Ligne> getLignes() {
+        return lignes;
+    }
+
     public void addLigne(Ligne ligne){
         this.lignes.put(this.name,ligne);
     }

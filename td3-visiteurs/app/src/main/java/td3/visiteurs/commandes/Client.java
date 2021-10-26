@@ -21,6 +21,10 @@ public class Client implements PrePostVisitable,Visitable{
         return name;
     }
 
+    public Map<String, Commande> getCommandes() {
+        return commandes;
+    }
+
     public void addCommande(Commande commande) {
         this.commandes.put(commande.getName(),commande);
     }
