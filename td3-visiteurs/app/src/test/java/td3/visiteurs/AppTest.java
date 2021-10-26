@@ -4,11 +4,10 @@
 package td3.visiteurs;
 
 import org.junit.Test;
+import td3.visiteurs.main.Main;
+
 import static org.junit.Assert.*;
 
 public class AppTest {
-    @Test public void appHasAGreeting() {
-        App classUnderTest = new App();
-        assertNotNull("app should have a greeting", classUnderTest.getGreeting());
-    }
+
 }
