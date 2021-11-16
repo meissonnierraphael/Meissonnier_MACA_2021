@@ -30,16 +30,19 @@ public class VendingMachineStateBegin extends VendingMachineState{
 
     @Override
     public void askCoffee(VendingMachineContext c) throws IncorrectStateException {
-
+        c.setState(VendingMachineStateIntermediaire.getInstance());
+        c.askCoffee();
     }
 
     @Override
     public void askTea(VendingMachineContext c) throws IncorrectStateException {
-
+        c.setState(VendingMachineStateIntermediaire.getInstance());
+        c.askTea();
     }
 
     @Override
     public int getRefund(VendingMachineContext c) throws IncorrectStateException {
-        return 0;
+        c.setCash(0);
+        return c.getCash();
     }
 }
