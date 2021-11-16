@@ -3,12 +3,19 @@
  */
 package td4.state;
 
+import org.checkerframework.checker.units.qual.A;
+
 public class App {
-    public String getGreeting() {
-        return "Hello World!";
-    }
 
     public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
+
+        AmpouleContext ampouleContext = new AmpouleContext();
+        ampouleContext.setAllumee();
+        ampouleContext.setEteinte();
+        ampouleContext.setAllumee();
+        ampouleContext.setAllumee();
+        ampouleContext.setEteinte();
+        ampouleContext.setCassee();
+
     }
 }
