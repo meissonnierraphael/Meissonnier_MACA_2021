@@ -3,12 +3,19 @@
  */
 package td5.strategy;
 
+import td5.strategy.context.Unite;
+import td5.strategy.strategyA.Voler;
+import td5.strategy.strategyB.Canon;
+
+import java.util.List;
+
 public class App {
-    public String getGreeting() {
-        return "Hello World!";
-    }
 
     public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
+        Unite unite = new Unite();
+        unite.setAttaque(new Canon());
+        unite.setDeplacement(new Voler());
+        unite.attaquer();
+        unite.seDeplacer();
     }
 }
